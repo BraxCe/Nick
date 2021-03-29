@@ -1,0 +1,12 @@
+*{
+    background: black;
+    font-family: cursive;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    padding-top: 245px;
+    padding-right: 70px;
+    font-size: 90px;
+}
